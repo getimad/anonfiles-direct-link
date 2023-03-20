@@ -29,7 +29,7 @@ https://cdn-153.anonfiles.com/33tcC7f6z7/a0e01578-1679278603/example3.txt
 
 ## Note
 
-- If the script does not work in **PowerShell**, Check you have the execution policy allowed in your machine [read more](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.3):
+- If the script does not work in **PowerShell**, Check you have the execution policy allowed in your machine [read more](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.3)
 
 - Or just run this command to allow it:
 
