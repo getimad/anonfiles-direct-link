@@ -40,8 +40,10 @@ https://cdn-153.anonfiles.com/33tcC7f6z7/a0e01578-1679278603/example3.txt
 
 This game is licensed under the MIT License.
 
-## Contact
+## Contact Me
 
-If you have any questions, feedback, or suggestions, you can contact me at <getimad.pro@outlook.com>. You can also follow me on [X](https://twitter.com/getimad).
+If you have any questions, feel free to reach out to me at:
 
-Enjoy Coding 🙌
+<a href="https://www.linkedin.com/in/getimad/" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
